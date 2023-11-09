@@ -67,9 +67,6 @@ ul strong, span{
 /* /About */
 
 /* Facts */
-.facts{
-    padding: 0 30px;
-}
 .facts-facts{
     display: flex;
     flex-direction: row;
@@ -108,8 +105,6 @@ ul strong, span{
 /* Skills */
 .skills{
     padding: 60px 0;
-}
-.skills{
     background-color: #f5f8fd;
 }
 .progressbar{
