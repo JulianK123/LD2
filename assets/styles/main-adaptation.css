@@ -8,6 +8,7 @@
 }
 @media (max-width:1023px){
     .facts-facts{
+        justify-content: center;
         flex-wrap: wrap;
     }
 }
