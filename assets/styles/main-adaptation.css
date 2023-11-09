@@ -1,0 +1,18 @@
+@media (max-width:767px){
+    .about-info{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+@media (max-width:1023px){
+    .facts-facts{
+        flex-wrap: wrap;
+    }
+}
+@media (max-width: 425px){
+    .progressbar{
+        flex-direction: column;
+    }
+}
